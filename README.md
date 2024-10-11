@@ -1,9 +1,5 @@
 
-<br />
-<div align="center">
-  <a href="https://github.com/JellyLabScripts/FarmHelper">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
 <h3 align="center">FarmHelper V2</h3>
   <p align="center">
